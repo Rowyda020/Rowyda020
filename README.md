@@ -24,7 +24,7 @@
 </p>
 
 
-<h2 align="center">🧠 Core Knowledge</h2>
+<h2 align="center" margin-left="200px">🧠 Core Knowledge</h2>
 
 <p align="center">
 <b>Object-Oriented & Clean Code Principles</b><br/>
