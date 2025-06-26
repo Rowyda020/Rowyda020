@@ -86,43 +86,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rowydaa&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
----
-
-## 🌟 Featured Projects
-
-<div align="center">
-
-### 🚀 InternHub
-**AI-Powered Job Platform**
-- Built with MERN stack
-- Features AI-powered job recommendations
-- Modern UI with responsive design
-
-### 🎓 ScholarX Platform
-**Educational Technology Initiative**
-- Leading technical development
-- Mentorship and learning platform
-- Full-stack development
-
-</div>
-
----
-
-## 🌍 Languages I'm Learning
-
-<div align="center">
-
-| Language | Level | Flag |
-|----------|-------|------|
-| Mandarin Chinese | Beginner | 🇨🇳 |
-| Korean | Beginner | 🇰🇷 |
-| Swedish | Beginner | 🇸🇪 |
-| Norwegian | Beginner | 🇳🇴 |
-
-</div>
-
----
-
 ## 📫 Let's Connect!
 
 <div align="center">
