@@ -13,7 +13,7 @@
 
 ## 👩‍💻 About Me
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif">
+<img align="right" alt="Coding" width="400" height="500px" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif">
 
 🎓 **Fresh Graduate** in Technology and Information Systems  
 🧠 **Skilled** in MERN stack, TypeScript, .NET, and Python  
