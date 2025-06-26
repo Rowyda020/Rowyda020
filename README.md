@@ -9,11 +9,6 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Web+Developer;MERN+Stack+Specialist;Lifelong+Learner;Passionate+about+Clean+Code;Let's+Build+Something+Great!&font=Fira%20Code&center=true&width=600&height=50&color=36BCF7&vCenter=true&size=20&pause=1000" alt="Typing Animation" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rowydaa&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/rowydaa?label=Followers&style=social" alt="GitHub Followers" />
-</p>
-
 ---
 
 ## 👩‍💻 About Me
@@ -86,47 +81,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rowydaa&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
-## 📫 Let's Connect!
-
-<div align="center">
-
-<p>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/rowydaa">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://twitter.com/yourhandle">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-</p>
-
-</div>
-
----
-
-<div align="center">
-  
-### 💭 Quote of the Day
-  
-<p>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Quote" />
-</p>
-
-### 🎵 Currently Listening To
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=your-spotify-id&cover_image=true&theme=compact&show_offline=false&background_color=121212)](https://github.com/kittinan/spotify-github-profile)
-
-**⭐ From [Rowyda Ramadan](https://github.com/rowydaa)**
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer Wave" />
-</div>
