@@ -17,11 +17,9 @@
 
 🎓 **Fresh Graduate** in Technology and Information Systems  
 🧠 **Skilled** in MERN stack, TypeScript, .NET, and Python  
-💼 **Built** multiple full-stack projects including **InternHub**  
-💻 **Currently** Technical Head at **ScholarX**  
-🌍 **Learning** Mandarin Chinese, Korean, Swedish, and Norwegian  
+💼 **Built** multiple full-stack projects.
 💬 **Passionate** about teaching, building, and exploring new tech  
-🌟 **Aspiring** to work in an amazing company in **Norway** 🇳🇴  
+
 
 ---
 
