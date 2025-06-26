@@ -18,12 +18,13 @@
 💼 **Built** multiple full-stack projects  
 💬 **Passionate** about teaching, building, and exploring new tech  
 
+## 🛠️ Tech Stack
 </div>
 
 ---
 <div align="center">
 
-## 🛠️ Tech Stack
+
 </div>
 <div align="center">
 
