@@ -24,7 +24,7 @@
 </p>
 
 
-<h2 align="center" margin-left="200px">🧠 Core Knowledge</h2>
+<h2 align="center" >🧠 Core Knowledge</h2>
 
 <p align="center">
 <b>Object-Oriented & Clean Code Principles</b><br/>
@@ -39,6 +39,17 @@ JavaScript • C# • TypeScript • C • C++
 
 
 <h2 align="center">🛠️ Tech Stack</h2>
+<h3 align="center">🖥️ Backend Development</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web%20API-00599C?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
+  <img src="https://img.shields.io/badge/GRPC-0069D9?style=for-the-badge&logo=grpc&logoColor=white" />
+  <img src="https://img.shields.io/badge/LINQ-00599C?style=for-the-badge&logo=.net&logoColor=white" />
+</p>
 
 <h3 align="center">🌐 Frontend Development</h3>
 
@@ -51,17 +62,6 @@ JavaScript • C# • TypeScript • C • C++
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-<h3 align="center">🖥️ Backend Development</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Web%20API-00599C?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
-  <img src="https://img.shields.io/badge/GRPC-0069D9?style=for-the-badge&logo=grpc&logoColor=white" />
-  <img src="https://img.shields.io/badge/LINQ-00599C?style=for-the-badge&logo=.net&logoColor=white" />
-</p>
 
 <h3 align="center">🗃️ Databases</h3>
 
