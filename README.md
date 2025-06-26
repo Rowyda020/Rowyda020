@@ -12,6 +12,9 @@
 <h2>👩‍💻 About Me</h2>
 
 <img align="right" alt="Coding" width="250" height="250px" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif">
+</br>
+</br>
+
 
 <p align="center">
 🎓 <strong>Fresh Graduate</strong> in Technology and Information Systems  
