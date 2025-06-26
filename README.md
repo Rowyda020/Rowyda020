@@ -24,6 +24,9 @@
 
 
 <h2>🛠️ Tech Stack</h2>
+</br>
+</br>
+
 
 <h3>🌐 Frontend Technologies</h3>
 
