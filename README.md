@@ -13,6 +13,7 @@
 ---
 
 ## 👩‍💻 About Me
+</br>
 
 <img align="right" alt="Coding" width="200" height="200px" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif">
 
