@@ -4,8 +4,9 @@
 
 <h3>🚀 Passionate Full-Stack Developer | Tech Enthusiast | Language Learner</h3>
 
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Web+Developer;MERN+Stack+Specialist;OOP+&+Clean+Code+Advocate;Agile+Team+Player;Let’s+Build+Something+Great!&font=Fira%20Code&center=true&width=600&height=50&color=36BCF7&vCenter=true&size=20&pause=1000" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Web+Developer;MERN+Stack+Specialist;Lifelong+Learner;Passionate+about+Clean+Code;Let's+Build+Something+Great!&font=Fira%20Code&center=true&width=600&height=50&color=36BCF7&vCenter=true&size=20&pause=1000" alt="Typing Animation" />
 </p>
 
 
