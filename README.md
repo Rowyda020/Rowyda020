@@ -19,7 +19,8 @@
 <br>💼 <strong>Built</strong> multiple full-stack projects  
 <br>💬 <strong>Passionate</strong> about teaching, building, and exploring new tech  
 </p>
-
+</br>
+</br>
 
 
 <h2>🛠️ Tech Stack</h2>
