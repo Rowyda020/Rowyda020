@@ -13,7 +13,7 @@
 
 ## 👩‍💻 About Me
 
-<img align="right" alt="Coding" width="200" height="200px" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif">
+<img align="right" alt="Coding" width="300" height="300px" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif">
 
 I'm a passionate full-stack developer with expertise in both JavaScript and .NET ecosystems. My journey in tech combines:
 
