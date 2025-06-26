@@ -2,90 +2,70 @@
 
 <h1>🌟 Hi, I'm Rowyda Ramadan 👋</h1>
 
-<h3>🚀 Passionate Full-Stack Developer | Tech Enthusiast | Language Learner</h3>
+<h3>🚀 Full-Stack Developer | Tech Innovator | Problem Solver</h3>
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Web+Developer;MERN+Stack+Specialist;Lifelong+Learner;Passionate+about+Clean+Code;Let's+Build+Something+Great!&font=Fira%20Code&center=true&width=600&height=50&color=36BCF7&vCenter=true&size=20&pause=1000" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=MERN+Stack+Developer;.NET+Backend+Specialist;Clean+Code+Advocate;Data+Visualization+Expert;Turning+Ideas+into+Reality&font=Fira%20Code&center=true&width=650&height=50&color=36BCF7&vCenter=true&size=20&pause=1000" alt="Typing Animation" />
 </p>
 
+</div>
 
-<h2 align="center">👩‍💻 About Me</h2>
+## 👩‍💻 About Me
 
-<img align="right" alt="Coding" width="200" height="200px" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif">
-</br>
-</br>
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
 
-<p align="center">
-🎓 <strong>Fresh Graduate</strong> in Technology and Information Systems  
-<br>🧠 <strong>Skilled</strong> in MERN stack, TypeScript, .NET, and Python  
-<br>💼 <strong>Built</strong> multiple full-stack projects  
-<br>💬 <strong>Passionate</strong> about teaching, building, and exploring new tech  
-</p>
+I'm a passionate full-stack developer with expertise in both JavaScript and .NET ecosystems. My journey in tech combines:
 
+- 🎓 **Formal Education**: Fresh graduate in Technology and Information Systems
+- 💡 **Technical Mindset**: Strong foundation in OOP, design patterns, and system architecture
+- 🛠️ **Full-Stack Proficiency**: From database design to pixel-perfect UIs
+- 🌱 **Continuous Learner**: Currently exploring advanced TypeScript and cloud technologies
+- ✨ **Quality Focus**: Advocate for clean code, thorough testing, and maintainable solutions
 
-<h2 align="center" >🧠 Core Knowledge</h2>
-
-<p align="center">
-<b>Object-Oriented & Clean Code Principles</b><br/>
-S.O.L.I.D. Principles • Object-Oriented Programming • Design Patterns • Agile Methodology • Git & GitHub
-</p>
-
-<p align="center">
-<b>Programming Languages</b><br/>
-JavaScript • C# • TypeScript • C • C++
-</p>
+When I'm not coding, you'll find me contributing to open-source projects, learning new languages (both programming and human!), or mentoring aspiring developers.
 
 
 
-<h2 align="center">🛠️ Tech Stack</h2>
-<h3 align="center">🖥️ Backend Development</h3>
+## 🛠️ Technical Arsenal
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Web%20API-00599C?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
-  <img src="https://img.shields.io/badge/GRPC-0069D9?style=for-the-badge&logo=grpc&logoColor=white" />
-  <img src="https://img.shields.io/badge/LINQ-00599C?style=for-the-badge&logo=.net&logoColor=white" />
-</p>
+### 🔧 Core Competencies
+- **Software Architecture**: SOLID principles, Design Patterns, Clean Code
+- **Agile Development**: Scrum, Kanban, CI/CD pipelines
+- **Version Control**: Git, GitHub, Git Flow
 
-<h3 align="center">🌐 Frontend Development</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+### 🌐 Frontend Development
+<p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
 </p>
 
+### ⚙️ Backend Development
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web%20API-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
+  <img src="https://img.shields.io/badge/GRPC-0069D9?style=for-the-badge&logo=grpc&logoColor=white" />
+</p>
 
-<h3 align="center">🗃️ Databases</h3>
-
-<p align="center">
+### 🗃️ Data Layer
+<p>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+  <img src="https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
 </p>
 
-<h3 align="center">📊 Business Intelligence & Data Visualization</h3>
-
-<p align="center">
-Microsoft SQL Server – Business Intelligence • Power BI • Data Warehousing • Data Mining
+### 📊 Data Visualization
+<p>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/SSIS-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
 </p>
 
-<h3 align="center">🧰 Tools & Platforms</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-</p>
 
 </div>
