@@ -8,11 +8,12 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Web+Developer;MERN+Stack+Specialist;OOP+&+Clean+Code+Advocate;Agile+Team+Player;Let’s+Build+Something+Great!&font=Fira%20Code&center=true&width=600&height=50&color=36BCF7&vCenter=true&size=20&pause=1000" alt="Typing Animation" />
 </p>
 
----
 
 <h2 align="center">👩‍💻 About Me</h2>
 
 <img align="right" alt="Coding" width="200" height="200px" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif">
+</br>
+</br>
 
 <p align="center">
 🎓 <strong>Fresh Graduate</strong> in Technology and Information Systems  
@@ -21,7 +22,6 @@
 <br>💬 <strong>Passionate</strong> about teaching, building, and exploring new tech  
 </p>
 
----
 
 <h2 align="center">🧠 Core Knowledge</h2>
 
@@ -35,7 +35,7 @@ S.O.L.I.D. Principles • Object-Oriented Programming • Design Patterns • Ag
 JavaScript • C# • TypeScript • C • C++
 </p>
 
----
+
 
 <h2 align="center">🛠️ Tech Stack</h2>
 
