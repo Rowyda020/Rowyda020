@@ -4,7 +4,6 @@
 
 <h3>🚀 Full-Stack Developer | Tech Innovator | Problem Solver</h3>
 
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=MERN+Stack+Developer;.NET+Backend+Specialist;Clean+Code+Advocate;Data+Visualization+Expert;Turning+Ideas+into+Reality&font=Fira%20Code&center=true&width=650&height=50&color=36BCF7&vCenter=true&size=20&pause=1000" alt="Typing Animation" />
 </p>
@@ -17,22 +16,20 @@
 
 I'm a passionate full-stack developer with expertise in both JavaScript and .NET ecosystems. My journey in tech combines:
 
-- 🎓 **Formal Education**: Fresh graduate in Technology and Information Systems
-- 💡 **Technical Mindset**: Strong foundation in OOP, design patterns, and system architecture
-- 🛠️ **Full-Stack Proficiency**: From database design to pixel-perfect UIs
-- 🌱 **Continuous Learner**: Currently exploring advanced TypeScript and cloud technologies
-- ✨ **Quality Focus**: Advocate for clean code, thorough testing, and maintainable solutions
+- 🎓 **Formal Education**: Fresh graduate in Technology and Information Systems  
+- 💡 **Technical Mindset**: Strong foundation in OOP, design patterns, and system architecture  
+- 🛠️ **Full-Stack Proficiency**: From database design to pixel-perfect UIs  
+- 🌱 **Continuous Learner**: Currently exploring advanced TypeScript and cloud technologies  
+- ✨ **Quality Focus**: Advocate for clean code, thorough testing, and maintainable solutions  
 
 When I'm not coding, you'll find me contributing to open-source projects, learning new languages (both programming and human!), or mentoring aspiring developers.
-
-
 
 ## 🛠️ Technical Arsenal
 
 ### 🔧 Core Competencies
-- **Software Architecture**: SOLID principles, Design Patterns, Clean Code
-- **Agile Development**: Scrum, Kanban, CI/CD pipelines
-- **Version Control**: Git, GitHub, Git Flow
+- **Software Architecture**: SOLID principles, Design Patterns, Clean Code  
+- **Agile Development**: Scrum, Kanban, CI/CD pipelines  
+- **Version Control**: Git, GitHub, Git Flow  
 
 ### 🌐 Frontend Development
 <p>
@@ -46,8 +43,9 @@ When I'm not coding, you'll find me contributing to open-source projects, learni
 ### ⚙️ Backend Development
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/Web%20API-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
   <img src="https://img.shields.io/badge/GRPC-0069D9?style=for-the-badge&logo=grpc&logoColor=white" />
 </p>
@@ -56,14 +54,21 @@ When I'm not coding, you'll find me contributing to open-source projects, learni
 <p>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeORM-E83524?style=for-the-badge&logo=typeorm&logoColor=white" />
   <img src="https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
+</p>
+
+### 📦 Messaging, Caching & Queues
+<p>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/BullMQ-DD0000?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" />
 </p>
 
 ### 📊 Data Visualization
 <p>
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 </p>
-
-
-</div>
