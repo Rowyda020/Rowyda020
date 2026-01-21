@@ -5,7 +5,7 @@
 <h3>🚀 Full-Stack Developer | Tech Innovator | Problem Solver</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Software+Engineer;+Backend+Specialist;Clean+Code+Advocate;Data+Visualization+Expert;Turning+Ideas+into+Reality&font=Fira%20Code&center=true&width=650&height=50&color=36BCF7&vCenter=true&size=20&pause=1000" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Software+Engineer;+Backend+Specialist;Clean+Code+Advocate;Turning+Ideas+into+Reality&font=Fira%20Code&center=true&width=650&height=50&color=36BCF7&vCenter=true&size=20&pause=1000" alt="Typing Animation" />
 </p>
 
 </div>
